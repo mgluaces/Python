@@ -1,5 +1,7 @@
 ### Hola 👋
 
+En este repositorio encontrarás pequeños proyectos y pruebas para profundizar más en Python, y sacarle el máximo partido a dicho lenguaje.
+
 <!--
 **mgluaces/mgluaces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
