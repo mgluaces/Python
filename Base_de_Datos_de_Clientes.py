@@ -1,10 +1,10 @@
 import mysql.connector
 
 def create_db_connection():
-    connection = mysql.connector.connect(host='localhost:3306',
+    connection = mysql.connector.connect(host='localhost',
                                          database='clientes',
                                          user='root', 
-                                         password='TxIkY0017$')
+                                         password='1234567890')
     return connection
 
 def get_all_clients():
