@@ -13,8 +13,8 @@ def limpiar_archivo_duplicados(archivo_entrada, archivo_salida):
                 registros_unicos.add(registro)
 
 # Ejemplo de uso
-archivo_entrada = r'c:/Users/Usuario/Desktop/PRUEBAS/PYTHON/informeCentros_TF.csv'
-archivo_salida = r'c:/Users/Usuario/Desktop/PRUEBAS/PYTHON/datos_salida.csv'
+archivo_entrada = 'archivo.csv'
+archivo_salida = 'archivo_salida.csv'
 
 limpiar_archivo_duplicados(archivo_entrada, archivo_salida)
 
