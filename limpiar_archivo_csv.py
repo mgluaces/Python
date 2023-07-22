@@ -15,8 +15,8 @@ def limpiar_celda(celda, caracteres_prohibidos):
     return celda
 
 # Ejemplo de uso
-archivo_entrada = r'c:/Users/Usuario/Desktop/PRUEBAS/PYTHON/informeCentros_TF.csv'
-archivo_salida = r'c:/Users/Usuario/Desktop/PRUEBAS/PYTHON/datos_salida.csv'
+archivo_entrada = 'archivo.csv'
+archivo_salida = 'archivo_salida.csv'
 caracteres_prohibidos = [';', '#', '$', '%', ',', '/']
 
 limpiar_archivo(archivo_entrada, archivo_salida, caracteres_prohibidos)
